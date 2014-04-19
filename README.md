@@ -1,8 +1,10 @@
 btcwire
 =======
 
-[![Build Status](https://travis-ci.org/conformal/btcwire.png?branch=master)]
-(https://travis-ci.org/conformal/btcwire)
+[![Build Status](https://drone.io/github.com/tuxcanfly/btcwire/status.png)]
+(https://drone.io/github.com/tuxcanfly/btcwire/latest)
+[![Coverage Status](https://coveralls.io/repos/tuxcanfly/btcwire/badge.png?branch=master)]
+(https://coveralls.io/r/tuxcanfly/btcwire?branch=master)
 
 Package btcwire implements the bitcoin wire protocol.  A comprehensive suite of
 tests with 100% test coverage is provided to ensure proper functionality.  See
